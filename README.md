@@ -42,10 +42,10 @@ To get started with the LoginApp, follow the steps below:
 ![Home Screen](https://github.com/user-attachments/assets/c9627cf7-b690-45d9-af93-390fcee0edf5)
 
 ### **Profile Screen**
-![Profile Screen](![image](https://github.com/user-attachments/assets/d917b245-6f9c-45ea-aa44-55010d9998c8)
+(![image](https://github.com/user-attachments/assets/d917b245-6f9c-45ea-aa44-55010d9998c8)
 
 ### **Master Screen**
-![Master Screen](![image](https://github.com/user-attachments/assets/e4bfa58b-c2bb-475b-930c-ae939aa3e0a0)
+(![image](https://github.com/user-attachments/assets/e4bfa58b-c2bb-475b-930c-ae939aa3e0a0)
 
 
 ## Features
